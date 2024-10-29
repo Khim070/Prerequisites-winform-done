@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ZDJb7YE0wW8=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\palav\\Source\\Repos\\Prerequisites-winform\\WinFormBookClient\\WinFormBookClient.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\palav\\.nuget\\packages\\restclientlib\\1.0.4\\restclientlib.1.0.4.nupkg.sha512"
+  ],
+  "logs": []
+}

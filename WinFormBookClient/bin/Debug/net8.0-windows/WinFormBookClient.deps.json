@@ -1,0 +1,57 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "WinFormBookClient/1.0.0": {
+        "dependencies": {
+          "BookLib": "1.0.0"
+        },
+        "runtime": {
+          "WinFormBookClient.dll": {}
+        }
+      },
+      "RestClientLib/1.0.4": {
+        "runtime": {
+          "lib/net8.0/RestClientLib.dll": {
+            "assemblyVersion": "1.0.4.0",
+            "fileVersion": "1.0.4.0"
+          }
+        }
+      },
+      "BookLib/1.0.0": {
+        "dependencies": {
+          "RestClientLib": "1.0.4"
+        },
+        "runtime": {
+          "BookLib.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "WinFormBookClient/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "RestClientLib/1.0.4": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-TQhcUyzdTbyyRfHOeMmiu4dxeyZiG0heqENRF1bgSSa7EagRbXHR+C/RIRTVrzerp08b5xQZQaVA8uO05ntxLw==",
+      "path": "restclientlib/1.0.4",
+      "hashPath": "restclientlib.1.0.4.nupkg.sha512"
+    },
+    "BookLib/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

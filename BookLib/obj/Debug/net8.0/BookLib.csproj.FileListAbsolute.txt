@@ -1,0 +1,37 @@
+D:\Teaching24-25\OOAD-24-25\S1\W6-REST API\Theory\RestApiDemo\BookLib\bin\Debug\net8.0\BookLib.deps.json
+D:\Teaching24-25\OOAD-24-25\S1\W6-REST API\Theory\RestApiDemo\BookLib\bin\Debug\net8.0\BookLib.dll
+D:\Teaching24-25\OOAD-24-25\S1\W6-REST API\Theory\RestApiDemo\BookLib\bin\Debug\net8.0\BookLib.pdb
+D:\Teaching24-25\OOAD-24-25\S1\W6-REST API\Theory\RestApiDemo\BookLib\obj\Debug\net8.0\BookLib.csproj.AssemblyReference.cache
+D:\Teaching24-25\OOAD-24-25\S1\W6-REST API\Theory\RestApiDemo\BookLib\obj\Debug\net8.0\BookLib.GeneratedMSBuildEditorConfig.editorconfig
+D:\Teaching24-25\OOAD-24-25\S1\W6-REST API\Theory\RestApiDemo\BookLib\obj\Debug\net8.0\BookLib.AssemblyInfoInputs.cache
+D:\Teaching24-25\OOAD-24-25\S1\W6-REST API\Theory\RestApiDemo\BookLib\obj\Debug\net8.0\BookLib.AssemblyInfo.cs
+D:\Teaching24-25\OOAD-24-25\S1\W6-REST API\Theory\RestApiDemo\BookLib\obj\Debug\net8.0\BookLib.csproj.CoreCompileInputs.cache
+D:\Teaching24-25\OOAD-24-25\S1\W6-REST API\Theory\RestApiDemo\BookLib\obj\Debug\net8.0\BookLib.dll
+D:\Teaching24-25\OOAD-24-25\S1\W6-REST API\Theory\RestApiDemo\BookLib\obj\Debug\net8.0\refint\BookLib.dll
+D:\Teaching24-25\OOAD-24-25\S1\W6-REST API\Theory\RestApiDemo\BookLib\obj\Debug\net8.0\BookLib.pdb
+D:\Teaching24-25\OOAD-24-25\S1\W6-REST API\Theory\RestApiDemo\BookLib\obj\Debug\net8.0\ref\BookLib.dll
+D:\Teaching24-25\OOAD-24-25\S1\W7-WinFormClient\Theory\BookClients\BookLib\bin\Debug\net8.0\BookLib.deps.json
+D:\Teaching24-25\OOAD-24-25\S1\W7-WinFormClient\Theory\BookClients\BookLib\bin\Debug\net8.0\BookLib.dll
+D:\Teaching24-25\OOAD-24-25\S1\W7-WinFormClient\Theory\BookClients\BookLib\bin\Debug\net8.0\BookLib.pdb
+D:\Teaching24-25\OOAD-24-25\S1\W7-WinFormClient\Theory\BookClients\BookLib\obj\Debug\net8.0\BookLib.csproj.AssemblyReference.cache
+D:\Teaching24-25\OOAD-24-25\S1\W7-WinFormClient\Theory\BookClients\BookLib\obj\Debug\net8.0\BookLib.GeneratedMSBuildEditorConfig.editorconfig
+D:\Teaching24-25\OOAD-24-25\S1\W7-WinFormClient\Theory\BookClients\BookLib\obj\Debug\net8.0\BookLib.AssemblyInfoInputs.cache
+D:\Teaching24-25\OOAD-24-25\S1\W7-WinFormClient\Theory\BookClients\BookLib\obj\Debug\net8.0\BookLib.AssemblyInfo.cs
+D:\Teaching24-25\OOAD-24-25\S1\W7-WinFormClient\Theory\BookClients\BookLib\obj\Debug\net8.0\BookLib.csproj.CoreCompileInputs.cache
+D:\Teaching24-25\OOAD-24-25\S1\W7-WinFormClient\Theory\BookClients\BookLib\obj\Debug\net8.0\BookLib.dll
+D:\Teaching24-25\OOAD-24-25\S1\W7-WinFormClient\Theory\BookClients\BookLib\obj\Debug\net8.0\refint\BookLib.dll
+D:\Teaching24-25\OOAD-24-25\S1\W7-WinFormClient\Theory\BookClients\BookLib\obj\Debug\net8.0\BookLib.pdb
+D:\Teaching24-25\OOAD-24-25\S1\W7-WinFormClient\Theory\BookClients\BookLib\obj\Debug\net8.0\ref\BookLib.dll
+C:\Users\palav\Source\Repos\Prerequisites-winform\BookLib\bin\Debug\net8.0\BookLib.deps.json
+C:\Users\palav\Source\Repos\Prerequisites-winform\BookLib\bin\Debug\net8.0\BookLib.dll
+C:\Users\palav\Source\Repos\Prerequisites-winform\BookLib\bin\Debug\net8.0\BookLib.pdb
+C:\Users\palav\Source\Repos\Prerequisites-winform\BookLib\obj\Debug\net8.0\BookLib.csproj.AssemblyReference.cache
+C:\Users\palav\Source\Repos\Prerequisites-winform\BookLib\obj\Debug\net8.0\BookLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\palav\Source\Repos\Prerequisites-winform\BookLib\obj\Debug\net8.0\BookLib.AssemblyInfoInputs.cache
+C:\Users\palav\Source\Repos\Prerequisites-winform\BookLib\obj\Debug\net8.0\BookLib.AssemblyInfo.cs
+C:\Users\palav\Source\Repos\Prerequisites-winform\BookLib\obj\Debug\net8.0\BookLib.csproj.CoreCompileInputs.cache
+C:\Users\palav\Source\Repos\Prerequisites-winform\BookLib\obj\Debug\net8.0\BookLib.sourcelink.json
+C:\Users\palav\Source\Repos\Prerequisites-winform\BookLib\obj\Debug\net8.0\BookLib.dll
+C:\Users\palav\Source\Repos\Prerequisites-winform\BookLib\obj\Debug\net8.0\refint\BookLib.dll
+C:\Users\palav\Source\Repos\Prerequisites-winform\BookLib\obj\Debug\net8.0\BookLib.pdb
+C:\Users\palav\Source\Repos\Prerequisites-winform\BookLib\obj\Debug\net8.0\ref\BookLib.dll

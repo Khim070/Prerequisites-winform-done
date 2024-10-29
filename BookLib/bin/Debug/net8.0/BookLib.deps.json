@@ -1,0 +1,41 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "BookLib/1.0.0": {
+        "dependencies": {
+          "RestClientLib": "1.0.4"
+        },
+        "runtime": {
+          "BookLib.dll": {}
+        }
+      },
+      "RestClientLib/1.0.4": {
+        "runtime": {
+          "lib/net8.0/RestClientLib.dll": {
+            "assemblyVersion": "1.0.4.0",
+            "fileVersion": "1.0.4.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BookLib/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "RestClientLib/1.0.4": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-TQhcUyzdTbyyRfHOeMmiu4dxeyZiG0heqENRF1bgSSa7EagRbXHR+C/RIRTVrzerp08b5xQZQaVA8uO05ntxLw==",
+      "path": "restclientlib/1.0.4",
+      "hashPath": "restclientlib.1.0.4.nupkg.sha512"
+    }
+  }
+}
